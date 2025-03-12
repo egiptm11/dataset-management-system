@@ -1,0 +1,4 @@
+[core]
+    remote = dataset-management-system
+['remote "dataset-management-system"']
+    url = https://github.com/egiptm11/dataset-management-system.git
